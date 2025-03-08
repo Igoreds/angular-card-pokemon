@@ -39,3 +39,9 @@ justify-content: center;
   margin-right: 4px;
   border-radius: 5px;
 }
+
+.card__body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
